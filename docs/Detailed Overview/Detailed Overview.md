@@ -1,4 +1,10 @@
+---
+position: 1
+---
+
 # Detailed Overview
+
+[![alt text](https://img.youtube.com/vi/XhPmeoCoz0c/0.jpg)](https://www.youtube.com/watch?v=XhPmeoCoz0c)
 
 ## Preon as a CDP
 
@@ -39,6 +45,7 @@ $oPREON is the emission token of Preon's Stability Pool. It is illiquid on its o
 The earned $STAR is used for the protocol in the form of incentives for $vePREON holders and is sent to the Treasury, where it is employed for various purposes.
 
 ## Preon as a DAO
+
 Preon is built with robustness in mind. As a team, we aim to maximize decentralization. $vePREON holders will have the right to:
 
 Introduce collateral options within the CDP

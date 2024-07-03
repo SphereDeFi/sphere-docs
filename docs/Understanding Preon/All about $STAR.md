@@ -1,5 +1,8 @@
-# All about $STAR
+---
+sidebar_position: 1
+---
 
+# All about $STAR
 
 $STAR is an over-collateralized stablecoin backed by a 110% minimum collateral ratio. Loans are secured by always having more value locked than the amount of debt given out.
 

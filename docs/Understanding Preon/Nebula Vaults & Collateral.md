@@ -1,4 +1,10 @@
+---
+sidebar_position: 2
+---
+
 # Nebula Vaults & Collateral
+
+[![alt text](https://img.youtube.com/vi/772vAmdB0gE/0.jpg)](https://www.youtube.com/watch?v=772vAmdB0gE)
 
 ## What are Nebula Vaults?
 
@@ -13,6 +19,7 @@ Since Preon charges no interest, you can close your Nebula Vault at any time by 
 The ratios between the value of the collateral, the collateral itself, and the amount borrowed are referred to as the collateral ratio (CR) and the Loan-To-Value (LTV) ratio, respectively. Users that want to keep a strong position within the protocol must understand the differences between the two concepts.
 
 ## Collateral Ratio
+
 The percentage of the overall value of the collateral to the entire value of what was borrowed is referred to as the collateral ratio. It is a percentage that shows how much of the borrowed money is backed by the collateral.
 
 𝐶𝑅=(𝐶𝑉/𝐵𝑉)⋅100
@@ -20,7 +27,6 @@ The percentage of the overall value of the collateral to the entire value of wha
 A higher collateral ratio means that the borrower has more collateral compared to the borrowed amount, which reduces the risk for the protocol.
 
 ## LTV (Loan-to-Value) Ratio
-
 
 In contrast, the LTV ratio is the ratio of the total value of the collateral to the total value of the borrowed amount. It also represents the proportion of the borrowed money that is covered by the collateral, and is given as a percentage.
 
@@ -34,7 +40,7 @@ A lower LTV ratio implies a safer position for the borrower, as it means that th
 
 Due to the nature of how Preon works, keeping every asset within Preon active is our top priority.
 
-Even if collateralized, assets are yield-farmed in low-risk strategies. 
+Even if collateralized, assets are yield-farmed in low-risk strategies.
 
 This means users can increase their exposure to assets by leveraging their position.
 

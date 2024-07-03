@@ -1,4 +1,10 @@
+---
+sidebar_position: 3
+---
+
 # Preon's Liquidation Mechanism
+
+[![alt text](https://img.youtube.com/vi/wzEDy33Mwao/0.jpg)](https://www.youtube.com/watch?v=wzEDy33Mwao)
 
 ## What are the differences between Redemptions and Liquidations?
 
@@ -32,9 +38,10 @@ The debt of the vault is canceled and absorbed by the Stability Pool, and its co
 
 The owner of the vault still keeps the full amount of $STAR borrowed and will not need to repay their debt.
 
-*In the event of a liquidation where the Stability Pool contains insufficient $STAR, the collateral is distributed among the other existing Nebula Vaults to maintain $STAR stability through over-collateralization.
+\*In the event of a liquidation where the Stability Pool contains insufficient $STAR, the collateral is distributed among the other existing Nebula Vaults to maintain $STAR stability through over-collateralization.
 
 ### Who can liquidate Nebula Vaults?
+
 Anybody can liquidate a vault as soon as it goes below the minimum collateral ratio.
 
 ## Collateral Status

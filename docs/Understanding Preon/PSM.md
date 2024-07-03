@@ -1,6 +1,10 @@
-# PSM
-Peg Stability Module
+---
+sidebar_position: 5
+---
 
+# PSM
+
+Peg Stability Module
 
 ## What is a PSM?
 

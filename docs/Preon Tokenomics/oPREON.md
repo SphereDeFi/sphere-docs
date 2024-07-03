@@ -1,4 +1,10 @@
+---
+sidebar_position: 3
+---
+
 # oPREON
+
+[![alt text](https://img.youtube.com/vi/rJk-4r_l0Xw/0.jpg)](https://www.youtube.com/watch?v=rJk-4r_l0Xw)
 
 ## What are option calls?
 
@@ -8,9 +14,10 @@ Other than redemption, $oPREON can be zapped into $vePREON at a 1:1 ratio.
 
 ## How do I earn $oPREON?
 
-$oPREON is currently only earnable through the Stability Pool. 
+$oPREON is currently only earnable through the Stability Pool.
 
 ## How do I redeem $oPREON?
+
 Users have a fixed rate at which they are able to redeem $oPREON at a fixed rate. This incentivizes users to deposit more liquidity into the Stability Pool, strengthening the $STAR peg.
 
 Users can:
@@ -28,7 +35,6 @@ Example:
 Bob supplies $STAR to the Stability Pool on Preon & earns $100 worth of $oPREON. For this example, the discount is set to 20%.
 To realize his rewards, Bob redeems his $oPREON for $80 worth of $STAR.
 The $STAR is deposited into the Stability Pool on behalf of the Treasury, creating consistent peg safety, and absorbing the minted stablecoin supply to become POL (Protocol Owned Liquidity), allowing upward pressure for the stablecoin to be arbitraged against.
-
 
 Bob can now sell his $PREON for a $20 profit.
 OR

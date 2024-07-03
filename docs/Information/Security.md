@@ -1,4 +1,10 @@
+---
+sidebar_position: 2
+---
+
 # Security
+
+![Security!](../assets/security.png "Security")
 
 Smart Contract security is a priority for Preon. All precautions are and will be taken to ensure the protocol is safe to use.
 
@@ -10,6 +16,7 @@ All collateral types are peer-reviewed & tested to ensure they are safe to use.
 [Audit 2 - Peckshield (May 2024)](https://drive.google.com/file/d/1vjAsAaG_pjIrWZaQiJLkSEmupFsFovsU/view)
 
 ## Codebase
+
 **$wETH, $wMATIC, $stMATIC & $wstETH Nebula Vault**
 
 Nebula Vaults use [Dyson](https://docs.dyson.money/contracts-and-security/contracts) for their yield farming. Includes auditing and battle-tested code.

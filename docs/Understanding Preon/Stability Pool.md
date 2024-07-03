@@ -1,4 +1,10 @@
+---
+sidebar_position: 4
+---
+
 # Stability Pool
+
+[![alt text](https://img.youtube.com/vi/thE57sTbxzI/0.jpg)](https://www.youtube.com/watch?v=thE57sTbxzI)
 
 ## What is the Stability pool?
 
@@ -8,7 +14,7 @@ When any Nebula Vault is liquidated, the amount of $STAR corresponding to the de
 
 The Stability Pool is funded by users depositing their $STAR tokens.
 
-Over time, users' $STAR deposits are burned in exchange for a share of liquidated collateral, as well as $oPREON emissions.*
+Over time, users' $STAR deposits are burned in exchange for a share of liquidated collateral, as well as $oPREON emissions.\*
 
 For example:
 
@@ -16,7 +22,7 @@ A user's $wETH is liquidated, and the collateral is distributed to Stability Poo
 
 Note: even in the absence of liquidated collateral, Stability Pool providers still earn $oPREON emissions.
 
-*Initially, only the Stability Pool on Base will be earning emissions.
+\*Initially, only the Stability Pool on Base will be earning emissions.
 
 ## Why should I deposit $STAR into the Stability Pool?
 
