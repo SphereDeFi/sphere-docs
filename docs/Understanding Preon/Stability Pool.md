@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Stability Pool
 
-[![alt text](https://img.youtube.com/vi/thE57sTbxzI/0.jpg)](https://www.youtube.com/watch?v=thE57sTbxzI)
+[![alt text](https://i3.ytimg.com/vi/thE57sTbxzI/maxresdefault.jpg)](https://www.youtube.com/watch?v=thE57sTbxzI)
 
 ## What is the Stability pool?
 

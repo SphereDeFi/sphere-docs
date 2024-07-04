@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # vePREON
 
-[![alt text](https://img.youtube.com/vi/rormmkF7zrw/0.jpg)](https://www.youtube.com/watch?v=rormmkF7zrw)
+[![alt text](https://i3.ytimg.com/vi/rormmkF7zrw/maxresdefault.jpg)](https://www.youtube.com/watch?v=rormmkF7zrw)
 
 Lock your $vePREON for revenue sharing privileges
 

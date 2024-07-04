@@ -4,7 +4,7 @@ position: 1
 
 # Detailed Overview
 
-[![alt text](https://img.youtube.com/vi/XhPmeoCoz0c/0.jpg)](https://www.youtube.com/watch?v=XhPmeoCoz0c)
+[![alt text](https://i3.ytimg.com/vi/XhPmeoCoz0c/maxresdefault.jpg)](https://www.youtube.com/watch?v=XhPmeoCoz0c)
 
 ## Preon as a CDP
 
@@ -35,6 +35,7 @@ $STAR users can deposit their $STAR to the Stability Pool to earn $oPREON, an op
 $vePREON is a receipt NFT for locking $PREON into the protocol’s veNFT contract for a time period between 1 week to 2 years.
 
 $vePREON holders are rewarded with the following:
+
 - One-time borrow fee (added to borrowers debt)
 - Repayment fee
 - Performance fee on collateral yield farming

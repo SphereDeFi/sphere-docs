@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Preon's Liquidation Mechanism
 
-[![alt text](https://img.youtube.com/vi/wzEDy33Mwao/0.jpg)](https://www.youtube.com/watch?v=wzEDy33Mwao)
+[![alt text](https://i3.ytimg.com/vi/wzEDy33Mwao/maxresdefault.jpg)](https://www.youtube.com/watch?v=wzEDy33Mwao)
 
 ## What are the differences between Redemptions and Liquidations?
 

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Nebula Vaults & Collateral
 
-[![alt text](https://img.youtube.com/vi/772vAmdB0gE/0.jpg)](https://www.youtube.com/watch?v=772vAmdB0gE)
+[![alt text](https://i3.ytimg.com/vi/772vAmdB0gE/maxresdefault.jpg)](https://www.youtube.com/watch?v=772vAmdB0gE)
 
 ## What are Nebula Vaults?
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # oPREON
 
-[![alt text](https://img.youtube.com/vi/rJk-4r_l0Xw/0.jpg)](https://www.youtube.com/watch?v=rJk-4r_l0Xw)
+[![alt text](https://i3.ytimg.com/vi/rJk-4r_l0Xw/maxresdefault.jpg)](https://www.youtube.com/watch?v=rJk-4r_l0Xw)
 
 ## What are option calls?
 
