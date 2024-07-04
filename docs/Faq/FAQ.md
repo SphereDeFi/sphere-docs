@@ -67,38 +67,34 @@ The developers, or the Preon Core, reserve the right to upgrade contracts. All a
 # How do I Liquidate vaults?
 
 To perform liquidations you will need to use the Vessel Manager Operations contract:
-Network
-Address
-Polygon
-0x7a004e02177da08df4e4eec15a0f75fb5de6af04
-Arbitrum
-0x7a004e02177da08df4e4eec15a0f75fb5de6af04
-
+| Network                | Address     |
+| ---------------------- | ----------------------
+| Polygon   | 0x7a004e02177da08df4e4eec15a0f75fb5de6af04 |
+| Arbitrum  | 0x7a004e02177da08df4e4eec15a0f75fb5de6af04 |
+                    
 Vessel Manager Operations Contract > write > liquidateVessels
 
 - asset > collateral you wish to liquidate
 - n > amount of vaults you wish to liquidate in one transaction (generally advised 10)
 
 Liquidations can occur on other chains as well, as soon as collateral types are added on the respective chains.
-Collaterals
+
+## Collaterals
+
 Polygon
 
-Token
-Address
-wMATIC
-0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270
-stMATIC
-0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4
-wMATIC/wETH
-0xAf02d0BE61C17900061C4AAbB9d263A68B5d3C87
-MATICx/wMATIC
-0x8ec4913A83dDBE2eBfa79A92D8fa28f500EA0061
+| Token  | Address   |   
+|---|---|
+| wMATIC   | 0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270  |   
+| stMATIC   |0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4  |   
+| wMATIC/wETH |0xAf02d0BE61C17900061C4AAbB9d263A68B5d3C87 |   
+| MATICx/wMATIC |  0x8ec4913A83dDBE2eBfa79A92D8fa28f500EA0061 |
+
+
 
 Arbitrum
 
-Token
-Address
-wETH
-0x82aF49447D8a07e3bd95BD0d56f35241523fBab1
-wstETH
-0x5979D7b546E38E414F7E9822514be443A4800529
+| Token  | Address   |   
+|---|---|
+| wETH  | 0x82aF49447D8a07e3bd95BD0d56f35241523fBab1  |   
+| wstETH | 0x5979D7b546E38E414F7E9822514be443A4800529 |
