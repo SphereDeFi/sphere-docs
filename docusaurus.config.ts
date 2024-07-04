@@ -58,6 +58,16 @@ const config: Config = {
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
+    metadata: [
+      {
+        name: "og:image",
+        content: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg", // URL to your OG image
+      },
+      {
+        name: "twitter:image",
+        content: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg", // URL to your OG image
+      },
+    ],
     // metadata: [
     //   {name: 'keywords', content: 'cooking, blog'},
     //   {name: 'twitter:card', content: 'summary_large_image'},
