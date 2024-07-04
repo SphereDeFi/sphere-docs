@@ -29,7 +29,10 @@ Use $STAR to redeem $oPREON for $PREON at a variable discount
 
 The formula is very simple:
 𝑠𝑡𝑟𝑖𝑘𝑒𝑃𝑟𝑖𝑐𝑒=𝑠𝑝𝑜𝑡𝑃𝑟𝑖𝑐𝑒×𝑑𝑖𝑠𝑐𝑜𝑢𝑛𝑡𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒
-The discount is variable & set by Preon policy. It cannot be changed once locked in, ensuring that redemption is at the discount the user agreed to.
+
+The discount is variable & set by Preon policy depending on what is being incentivized. 
+
+It cannot be changed once locked in, ensuring that redemption is at the discount the user agreed to.
 
 Example:
 Bob supplies $STAR to the Stability Pool on Preon & earns $100 worth of $oPREON. For this example, the discount is set to 20%.
@@ -42,10 +45,10 @@ Bob wants to lock his $100 worth of $oPREON for $100 worth of $vePREON to earn p
 
 ## What are the benefits of call options over liquidity mining?
 
-Increased protocol loyalty
-Incentivized lockup
-Decreased sell pressure
-Amplified sustainability
+- Increased protocol loyalty
+- Incentivized lockup
+- Decreased sell pressure
+- Amplified sustainability
 
 ## **Implementation details**
 
