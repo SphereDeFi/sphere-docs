@@ -12,8 +12,9 @@ All collateral types are peer-reviewed & tested to ensure they are safe to use.
 
 ## Audits
 
-[Audit 1 - Dedaub (June 2023)](https://drive.google.com/file/d/15PDD8G1RHLIMeSGDDEAF8Eh1Qjw2CEXo/view)
-[Audit 2 - Peckshield (May 2024)](https://drive.google.com/file/d/1vjAsAaG_pjIrWZaQiJLkSEmupFsFovsU/view)
+- [Audit 1 - Dedaub (June 2023)](https://drive.google.com/file/d/15PDD8G1RHLIMeSGDDEAF8Eh1Qjw2CEXo/view)
+
+- [Audit 2 - Peckshield (May 2024)](https://drive.google.com/file/d/1vjAsAaG_pjIrWZaQiJLkSEmupFsFovsU/view)
 
 ## Codebase
 
