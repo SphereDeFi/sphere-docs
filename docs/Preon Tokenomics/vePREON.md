@@ -16,11 +16,10 @@ Governance participation: $vePREON holders can partake in governance and cast vo
 
 ## **$vePREON voters receive revenue from**:
 
-One-time borrow fee (added to borrowers debt)
-Repayment fee
-Performance fee on collateral yield farming
-$oPREON redemption revenue
-Liquidation profits
+- One-time borrow fee (added to borrowers debt)
+- Repayment fee
+- Performance fee on collateral yield farming
+- Liquidation profits
 
 ## **$vePREON Specifications**
 
