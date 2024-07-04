@@ -29,6 +29,6 @@ Flexibility: $vePREON positions can be merged, extended, and transferred.
 
 **Revenue sharing**
 
-Locking $PREON in the platform’s veNFT contract also gives users access to yield from the protocol. Lockups are incentivized by a share of the protocol’s various revenue streams (detailed here).
+Locking $PREON in the platform’s veNFT contract also gives users access to yield from the protocol. Lockups are incentivized by a share of the protocol’s various revenue streams.
 
 The yield is distributed in $STAR.
