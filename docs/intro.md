@@ -23,10 +23,10 @@ For more information - [join our Discord](https://discord.com/invite/preon)!
 
 Preon is built with unique strategies that amplify popular CDP models & mixes it with mechanisms which build liquidity. Some of these mechanisms include:
 
-· OFT integration with LayerZero
-· Option calls as reward emissions
-· Nebula Vaults
-· Incentivized Stability Pool
-· Unique collateral types
+- OFT integration with LayerZero
+- Option calls as reward emissions
+- Nebula Vaults
+- Incentivized Stability Pool
+- Unique collateral types
 
 Each mechanism is supported by an ecosystem of partners who utilize the protocol & an extremely robust code-base allowing for decentralization of the protocol.
