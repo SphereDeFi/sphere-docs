@@ -35,11 +35,11 @@ $STAR users can deposit their $STAR to the Stability Pool to earn $oPREON, an op
 $vePREON is a receipt NFT for locking $PREON into the protocol’s veNFT contract for a time period between 1 week to 2 years.
 
 $vePREON holders are rewarded with the following:
-One-time borrow fee (added to borrowers debt)
-Repayment fee
-Performance fee on collateral yield farming
-Liquidation profits
-Different revenue sources provided by the protocol
+- One-time borrow fee (added to borrowers debt)
+- Repayment fee
+- Performance fee on collateral yield farming
+- Liquidation profits
+- Different revenue sources provided by the protocol
 
 $oPREON is the emission token of Preon's Stability Pool. It is illiquid on its own, but can be zapped for $vePREON or redeemed using $STAR at a discount.
 The earned $STAR is used for the protocol in the form of incentives for $vePREON holders and is sent to the Treasury, where it is employed for various purposes.
