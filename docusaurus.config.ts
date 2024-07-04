@@ -60,6 +60,20 @@ const config: Config = {
     },
     metadata: [
       {
+        name: "og:title",
+        content: "Preon | Reach for the $STARs",
+      },
+      {
+        name: "og:description",
+        content:
+          "Preon empowers you to leverage your crypto as collateral, granting quick access to funds without the need to sell or compromise your portfolio.",
+      },
+      {
+        name: "twitter:description",
+        content:
+          "Preon empowers you to leverage your crypto as collateral, granting quick access to funds without the need to sell or compromise your portfolio.",
+      },
+      {
         name: "og:image",
         content: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg", // URL to your OG image
       },
