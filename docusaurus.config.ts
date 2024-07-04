@@ -87,7 +87,7 @@ const config: Config = {
     //   {name: 'twitter:card', content: 'summary_large_image'},
     // ],
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg",
     navbar: {
       title: "Preon",
       logo: {
