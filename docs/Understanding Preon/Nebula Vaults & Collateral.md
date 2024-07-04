@@ -22,7 +22,7 @@ The ratios between the value of the collateral, the collateral itself, and the a
 
 The percentage of the overall value of the collateral to the entire value of what was borrowed is referred to as the collateral ratio. It is a percentage that shows how much of the borrowed money is backed by the collateral.
 
-$$ 𝐶𝑅=(𝐶𝑉/𝐵𝑉)⋅100 $$
+ 𝐶𝑅=(𝐶𝑉/𝐵𝑉)⋅100 
 
 A higher collateral ratio means that the borrower has more collateral compared to the borrowed amount, which reduces the risk for the protocol.
 
@@ -30,7 +30,7 @@ A higher collateral ratio means that the borrower has more collateral compared t
 
 In contrast, the LTV ratio is the ratio of the total value of the collateral to the total value of the borrowed amount. It also represents the proportion of the borrowed money that is covered by the collateral, and is given as a percentage.
 
-$$ 𝐿𝑇𝑉=(𝐵𝑉/𝐶𝑉)⋅100 $$
+ 𝐿𝑇𝑉=(𝐵𝑉/𝐶𝑉)⋅100 
 
 A lower LTV ratio implies a safer position for the borrower, as it means that they have more collateral relative to the borrowed amount, reducing the risk of liquidation.
 
