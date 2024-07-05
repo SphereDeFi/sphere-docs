@@ -18,7 +18,7 @@ $oPREON is currently only earnable through the Stability Pool.
 
 ## How do I redeem $oPREON?
 
-Users have a fixed rate at which they are able to redeem $oPREON at a fixed rate. This incentivizes users to deposit more liquidity into the Stability Pool, strengthening the $STAR peg.
+Users have a fixed rate at which they are able to redeem $oPREON. This incentivizes users to deposit more liquidity into the Stability Pool, strengthening the $STAR peg.
 
 Users can:
 Zap $oPREON into $vePREON at a 1:1 ratio
