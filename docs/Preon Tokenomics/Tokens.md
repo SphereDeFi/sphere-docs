@@ -24,7 +24,7 @@ The amount of tokens distributed to depositors is determined by TVL thresholds s
 
 This is done to ensure fair and continuously incentivised growth and stability into the future and to avoid the funneling of rewards early on.  
 
-Amount of participation and length of time participating should reward more than the timing of participation.  
+The amount and length of participation should reward more than the timing of participation.  
 
 ***The TVL thresholds will remain internal to negate gamification***.
 
@@ -35,11 +35,11 @@ LP Treasury ($PREON): This allocation is unlocked, and will be used for the crea
 
 Treasury/ylSphere ($vePREON): This allocation was given to the Sphere treasury in the form of a veNFT and will remain locked. The veNFT will start as blacklisted and gradually become whitelisted to curb early dilution. 
 
-Incentives ($PREON): This allocation will be used for incentives. It will be unlocked and used for on potential incentivizing campaigns.
+Incentives ($PREON): This allocation will be used for incentives, and will be unlocked for potential incentivization campaigns.
 
-Team ($vePREON): veNFT given to the team. This will begin as blacklisted and gradually become whitelisted at a slower rate than others. It will be held by Treasury to maintain governance.
+Team ($vePREON): A veNFT is given to the team. This will begin as blacklisted and gradually become whitelisted at a slower rate than others. It will be held by the Treasury to maintain governance.
 
-Marketing/Airdrops ($vePREON): This allocation will be usedmarketing campaigns including a small portion for the Starlord airdrop. It will be blacklisted until used in marketing.
+Marketing/Airdrops ($vePREON): This allocation will be used in marketing campaigns including a small portion for the Starlord airdrop. It will be blacklisted until used for marketing.
 
 Partnerships & BD ($vePREON): Will be used for partnerships and is blacklisted until it is needed.
 
