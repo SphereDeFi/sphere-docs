@@ -26,6 +26,8 @@ This is done to ensure fair and continuously incentivised growth and stability i
 
 The amount and length of participation should reward more than the timing of participation.  
 
+Any unused emissions will be forwarded to a time of greater TVL and not used anywhere else.
+
 ***The TVL thresholds will remain internal to negate gamification***.
 
 ![PreonInitialMintDistribution!](../assets/Preon-Initial-Mint-Distribution.png "Preon Initial Mint Distribution")
