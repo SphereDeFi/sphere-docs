@@ -14,7 +14,7 @@ $PREON’s initial mint supply: 500,000,000
 
 $PREON has an elastic supply due to being an emissions token.
 
-$PREON epochs will mint at start at 2% of initial supply or 10,000,000 $PREON 
+$PREON epochs will start minting at 2% of initial supply or 10,000,000 $PREON 
 
 The decay rate of emissions is set at 1%.
 
@@ -26,11 +26,33 @@ This is done to ensure fair and continuously incentivised growth and stability i
 
 Amount of participation and length of time participating should reward more than the timing of participation.  
 
-Any unused emissions will be forwarded to a time of greater TVL and not used for anywhere else. 
+Any unused emissions will be forwarded to a time of greater TVL and not used anywhere else. 
 
-***The TVL thresholds will be kept internal to negate gamification***.
+***The TVL thresholds will remain internal to negate gamification***.
+
+![PreonInitialMintDistribution!](../assets/Preon-Initial-Mint-Distribution.png "Preon Initial Mint Distribution")
 
 
+LP Treasury ($PREON): This allocation is unlocked, and will be used for the creation of $PREON liquidity pools across multiple chains.
+
+Treasury/ylSphere ($vePREON): This allocation was given to the Sphere treasury in the form of a veNFT and will remain locked. The veNFT will start as blacklisted and gradually become whitelisted to curb early dilution. 
+
+Incentives ($PREON): This allocation will be used for incentives. It will be unlocked and used for on potential incentivizing campaigns.
+
+Team ($vePREON): veNFT given to the team. This will begin as blacklisted and gradually become whitelisted at a slower rate than others. It will be held by Treasury to maintain governance.
+
+Marketing/Airdrops ($vePREON): This allocation will be usedmarketing campaigns including a small portion for the Starlord airdrop. It will be blacklisted until used in marketing.
+
+Partnerships & BD ($vePREON): Will be used for partnerships and is blacklisted until it is needed.
+
+Blacklisted means that these veNFTs initially do not receive any yield from the protocol. 
+
+| Allocation           | veNFT # | Wallet Address                              | 
+|----------------------|---------|---------------------------------------------|
+| Treasury/ylSPHERE    | 20      | 0xE799961B76d65A32365D34289D5AeA6C2242FC98  |   
+| Team                 | 19      | 0xE799961B76d65A32365D34289D5AeA6C2242FC98  |   
+| Marketing/Airdrops   | 18      | 0xE799961B76d65A32365D34289D5AeA6C2242FC98  |   
+| Partnerships & BD    | 17      | 0xE799961B76d65A32365D34289D5AeA6C2242FC98  |
 
 # $vePREON — ERC-721 governance token in the form of an NFT
 
