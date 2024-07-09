@@ -4,7 +4,9 @@ sidebar_position: 3
 
 # oPREON
 
-[![alt text](https://i3.ytimg.com/vi/rJk-4r_l0Xw/maxresdefault.jpg)](https://www.youtube.com/watch?v=rJk-4r_l0Xw)
+import ReactPlayer from 'react-player'
+
+<ReactPlayer url='https://www.youtube.com/watch?v=rJk-4r_l0Xw' controls />
 
 ## What are option calls?
 
