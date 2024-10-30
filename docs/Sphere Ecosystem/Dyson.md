@@ -21,6 +21,6 @@ The Sphere Earnings Pool is a single-sided Dyson vault in which holders of Spher
 The pool's yield is currently exclusively distributed in $wPOL. Due to its real yield, the returns are variable.
 
 
-How frequent are rewards?
+### How frequent are rewards?
 
 Rewards are distributed on a 7-day cycle. At the end of each cycle, the vault will **temporarily** stop distributing rewards until it is refilled. At that time, the multisig team will promptly refill the vault and initiate a new 7-day cycle. Due to the current vault structure, it cannot be pre-filled, but this process will be enhanced with an upcoming tokenomics upgrade to improve the overall flow and increase decentralization.

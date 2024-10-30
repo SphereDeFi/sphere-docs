@@ -3,9 +3,9 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Preon Docs",
-  tagline: "Reach for the $STARs",
-  favicon: "img/favicon.png",
+  title: "Sphere Docs",
+  tagline: "The S&P 500 of Crypto",
+  favicon: "img/sphere-favicon.png",
 
   // Set the production url of your site here
   url: "https://docs.preon.finance",
@@ -15,8 +15,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "PreonMoney", // Usually your GitHub org/user name.
-  projectName: "preon-docs", // Usually your repo name.
+  organizationName: "SphereDefi", // Usually your GitHub org/user name.
+  projectName: "sphere-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -60,7 +60,7 @@ const config: Config = {
       // Public API key: it is safe to commit it
       apiKey: "4a5ab78612140f7089edd1d9c406cb48",
 
-      indexName: "preon",
+      indexName: "sphere",
 
       // Optional: see doc section below
       contextualSearch: true,
@@ -93,17 +93,17 @@ const config: Config = {
     metadata: [
       {
         name: "og:title",
-        content: "Preon | Reach for the $STARs",
+        content: "Sphere | The S&P 500 of Crypto",
       },
       {
         name: "og:description",
         content:
-          "Preon empowers you to leverage your crypto as collateral, granting quick access to funds without the need to sell or compromise your portfolio.",
+          "Store of value with forced appreciation. Holders of the Sphere token enjoy exposure to a diversified portfolio of cryptocurrency projects.",
       },
       {
         name: "twitter:description",
         content:
-          "Preon empowers you to leverage your crypto as collateral, granting quick access to funds without the need to sell or compromise your portfolio.",
+          "The center of DeFi — earn revenue from multiple innovative streams by holding one token.",
       },
       {
         name: "og:image",
@@ -121,10 +121,11 @@ const config: Config = {
     // Replace with your project's social card
     image: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg",
     navbar: {
-      title: "Preon",
+      title: "Sphere",
       logo: {
-        alt: "Preon logo",
-        src: "img/preon-logo.png",
+        alt: "Sphere logo",
+        src: "img/sphere-logo.png",
+        
       },
       items: [
         {
@@ -191,11 +192,11 @@ const config: Config = {
           items: [
             {
               label: "Home",
-              href: "https://preon.finance/",
+              href: "https://www.sphere.finance/",
             },
             {
               label: "App",
-              href: "https://app.preon.finance/",
+              href: "https://app.sphere.finance/dashboard",
             },
             // {
             //   label: "Analytics",
@@ -205,10 +206,10 @@ const config: Config = {
             //   label: "Token Lists",
             //   href: "https://tokenlists.org/",
             // },
-            {
-              label: "Brand Assets",
-              href: "/docs/Information/Brand%20Assets",
-            },
+           // {
+            //  label: "Brand Assets",
+           //   href: "/docs/Information/Brand%20Assets",
+          //  },
           ],
         },
         {
@@ -220,20 +221,20 @@ const config: Config = {
             // },
             {
               label: "Discord",
-              href: "https://discord.com/invite/preon",
+              href: "https://discord.com/invite/spheredefi",
             },
             {
               label: "X (Twitter)",
-              href: "https://x.com/PreonFinance",
+              href: "https://x.com/SphereDeFi",
             },
             {
               label: "Blog",
-              href: "https://preonfinance.medium.com/",
+              href: "https://medium.com/@SphereFinance_",
             },
           ],
         },
       ],
-      // copyright: `Copyright © ${new Date().getFullYear()} Preon`,
+      // copyright: `Copyright © ${new Date().getFullYear()} Sphere`,
     },
     prism: {
       theme: prismThemes.dracula,
