@@ -6,7 +6,7 @@ position: 1
 
 ### The governance token of Sphere's ecosystem
 
-![Tokenomics!]( ../assets/sphere-tokenomics.png "Tokenomics")
+![Tokenomics](../assets/sphere-tokenomics.png)
 
 $SPHERE is Sphere Finance’s governance token. The $SPHERE token has a fixed supply and is currently deflationary in nature.
 
