@@ -12,7 +12,7 @@ function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
 
   return (
-    <Redirect to='/docs/intro' />
+    <Redirect to='/docs/overview' />
     // <header className={clsx("hero hero--primary", styles.heroBanner)}>
     //   <div className='container'>
     //     <Heading as='h1' className='hero__title'>
