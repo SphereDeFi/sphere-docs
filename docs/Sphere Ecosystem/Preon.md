@@ -5,7 +5,7 @@
 
 While lending & borrowing are integral to DeFi, there are still risks when collateralizing your assets. Please exercise your own due diligence and research, and deposit accordingly.
 
-The following section of the documentation covers the Sphere ecosystem, exclusively pertaining to its utility to $SPHERE as a token. To dive deeper into Preon, join the Preon Finance Discord [server](https://discord.com/invite/preon) & follow Preon on [𝕏](https://x.com/PreonFinance).
+The following section of the documentation covers the Sphere ecosystem, exclusively pertaining to its utility to $SPHERE as a token. To dive deeper into Preon, join the Preon Finance [Discord server](https://discord.com/invite/preon) & follow Preon on [𝕏](https://x.com/PreonFinance).
 
 
 ![Preon-graphic](../assets/preon-graphic.png)

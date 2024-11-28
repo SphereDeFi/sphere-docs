@@ -8,7 +8,7 @@ const config: Config = {
   favicon: "img/sphere-favicon.png",
 
   // Set the production url of your site here
-  url: "https://docs.preon.finance",
+  url: "https://docs.sphere.finance/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -229,7 +229,7 @@ const config: Config = {
             },
             {
               label: "Blog",
-              href: "https://medium.com/@SphereFinance_",
+              href: "https://www.sphere.finance/blog",
             },
           ],
         },
