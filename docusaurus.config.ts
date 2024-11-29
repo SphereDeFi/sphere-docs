@@ -97,21 +97,19 @@ const config: Config = {
       },
       {
         name: "og:description",
-        content:
-          "Store of value with forced appreciation. Holders of the Sphere token enjoy exposure to a diversified portfolio of cryptocurrency projects.",
+        content: "Store of value with forced appreciation. Holders of the Sphere token enjoy exposure to a diversified portfolio of cryptocurrency projects.",
       },
       {
         name: "twitter:description",
-        content:
-          "The center of DeFi — earn revenue from multiple innovative streams by holding one token.",
+        content: "The center of DeFi — earn revenue from multiple innovative streams by holding one token.",
       },
       {
         name: "og:image",
-        content: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg", // URL to your OG image
+        content: "img/sphere-og.png",
       },
       {
         name: "twitter:image",
-        content: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg", // URL to your OG image
+        content: "img/sphere-og.png",
       },
     ],
     // metadata: [
@@ -119,13 +117,12 @@ const config: Config = {
     //   {name: 'twitter:card', content: 'summary_large_image'},
     // ],
     // Replace with your project's social card
-    image: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg",
+    image: "img/sphere-og.png",
     navbar: {
       title: "Sphere",
       logo: {
         alt: "Sphere logo",
         src: "img/sphere-logo.png",
-        
       },
       items: [
         {
@@ -206,10 +203,10 @@ const config: Config = {
             //   label: "Token Lists",
             //   href: "https://tokenlists.org/",
             // },
-           // {
+            // {
             //  label: "Brand Assets",
-           //   href: "/docs/Information/Brand%20Assets",
-          //  },
+            //   href: "/docs/Information/Brand%20Assets",
+            //  },
           ],
         },
         {
