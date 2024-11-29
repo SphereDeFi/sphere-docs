@@ -3,20 +3,20 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Preon Docs",
-  tagline: "Reach for the $STARs",
-  favicon: "img/favicon.png",
+  title: "Sphere Docs",
+  tagline: "The S&P 500 of Crypto",
+  favicon: "img/sphere-icon.png",
 
   // Set the production url of your site here
-  url: "https://docs.preon.finance",
+  url: "https://docs.sphere.finance",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "PreonMoney", // Usually your GitHub org/user name.
-  projectName: "preon-docs", // Usually your repo name.
+  organizationName: "SphereDeFi", // Usually your GitHub org/user name.
+  projectName: "sphere-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -60,7 +60,7 @@ const config: Config = {
       // Public API key: it is safe to commit it
       apiKey: "4a5ab78612140f7089edd1d9c406cb48",
 
-      indexName: "preon",
+      indexName: "sphere",
 
       // Optional: see doc section below
       contextualSearch: true,
@@ -93,25 +93,23 @@ const config: Config = {
     metadata: [
       {
         name: "og:title",
-        content: "Preon | Reach for the $STARs",
+        content: "Sphere Finance | The S&P 500 of Crypto",
       },
       {
         name: "og:description",
-        content:
-          "Preon empowers you to leverage your crypto as collateral, granting quick access to funds without the need to sell or compromise your portfolio.",
+        content: "Store of value with forced appreciation. Holders of the Sphere token enjoy exposure to a diversified portfolio of cryptocurrency projects.",
       },
       {
         name: "twitter:description",
-        content:
-          "Preon empowers you to leverage your crypto as collateral, granting quick access to funds without the need to sell or compromise your portfolio.",
+        content: "Store of value with forced appreciation. Holders of the Sphere token enjoy exposure to a diversified portfolio of cryptocurrency projects.",
       },
       {
         name: "og:image",
-        content: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg", // URL to your OG image
+        content: "img/sphere-og.png",
       },
       {
         name: "twitter:image",
-        content: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg", // URL to your OG image
+        content: "img/sphere-og.png",
       },
     ],
     // metadata: [
@@ -119,12 +117,12 @@ const config: Config = {
     //   {name: 'twitter:card', content: 'summary_large_image'},
     // ],
     // Replace with your project's social card
-    image: "https://assets-global.website-files.com/629a91a5b00da53e513b5098/64d138cac6601eb4d2af7b93_opengraph3.jpg",
+    image: "img/sphere-og.png",
     navbar: {
-      title: "Preon",
+      title: "Sphere",
       logo: {
-        alt: "Preon logo",
-        src: "img/preon-logo.png",
+        alt: "Sphere logo",
+        src: "img/sphere-icon.png",
       },
       items: [
         {
@@ -220,15 +218,15 @@ const config: Config = {
             // },
             {
               label: "Discord",
-              href: "https://discord.com/invite/preon",
+              href: "https://discord.gg/spheredefi",
             },
             {
               label: "X (Twitter)",
-              href: "https://x.com/PreonFinance",
+              href: "https://x.com/SphereDeFi",
             },
             {
               label: "Blog",
-              href: "https://preonfinance.medium.com/",
+              href: "https://sphere.finance/blog",
             },
           ],
         },
