@@ -16,6 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "SphereDefi", // Usually your GitHub org/user name.
+
   projectName: "sphere-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -93,7 +94,7 @@ const config: Config = {
     metadata: [
       {
         name: "og:title",
-        content: "Sphere | The S&P 500 of Crypto",
+        content: "Sphere Finance | The S&P 500 of Crypto",
       },
       {
         name: "og:description",
@@ -101,7 +102,7 @@ const config: Config = {
       },
       {
         name: "twitter:description",
-        content: "The center of DeFi — earn revenue from multiple innovative streams by holding one token.",
+        content: "Store of value with forced appreciation. Holders of the Sphere token enjoy exposure to a diversified portfolio of cryptocurrency projects.",
       },
       {
         name: "og:image",
