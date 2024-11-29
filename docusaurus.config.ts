@@ -5,17 +5,18 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Sphere Docs",
   tagline: "The S&P 500 of Crypto",
-  favicon: "img/sphere-icon.png",
+  favicon: "img/sphere-favicon.png",
 
   // Set the production url of your site here
-  url: "https://docs.sphere.finance",
+  url: "https://docs.sphere.finance/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "SphereDeFi", // Usually your GitHub org/user name.
+  organizationName: "SphereDefi", // Usually your GitHub org/user name.
+
   projectName: "sphere-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
@@ -122,7 +123,7 @@ const config: Config = {
       title: "Sphere",
       logo: {
         alt: "Sphere logo",
-        src: "img/sphere-icon.png",
+        src: "img/sphere-logo.png",
       },
       items: [
         {
@@ -189,11 +190,11 @@ const config: Config = {
           items: [
             {
               label: "Home",
-              href: "https://preon.finance/",
+              href: "https://www.sphere.finance/",
             },
             {
               label: "App",
-              href: "https://app.preon.finance/",
+              href: "https://app.sphere.finance/dashboard",
             },
             // {
             //   label: "Analytics",
@@ -203,10 +204,10 @@ const config: Config = {
             //   label: "Token Lists",
             //   href: "https://tokenlists.org/",
             // },
-            {
-              label: "Brand Assets",
-              href: "/docs/Information/Brand%20Assets",
-            },
+            // {
+            //  label: "Brand Assets",
+            //   href: "/docs/Information/Brand%20Assets",
+            //  },
           ],
         },
         {
@@ -218,7 +219,7 @@ const config: Config = {
             // },
             {
               label: "Discord",
-              href: "https://discord.gg/spheredefi",
+              href: "https://discord.com/invite/spheredefi",
             },
             {
               label: "X (Twitter)",
@@ -226,12 +227,12 @@ const config: Config = {
             },
             {
               label: "Blog",
-              href: "https://sphere.finance/blog",
+              href: "https://www.sphere.finance/blog",
             },
           ],
         },
       ],
-      // copyright: `Copyright © ${new Date().getFullYear()} Preon`,
+      // copyright: `Copyright © ${new Date().getFullYear()} Sphere`,
     },
     prism: {
       theme: prismThemes.dracula,
